@@ -1,16 +1,13 @@
-### Hi there 👋
+# 주로 쓰는 언어
+## C#
+유니티를 주로 사용하다 보니 자연스레 공부하게 된 언어입니다.
 
-<!--
-**KimBH04/KimBH04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 취미로 쓰는 언어
+c#만 배우자니 심심해서 취미로 시작하게 된 언어입니다.
 
-Here are some ideas to get you started:
+## Python0굉
+## C/C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## JavaScript
+
+## Kotlin
